@@ -32,6 +32,7 @@ Following tables records the memory usage of Picker for each style:
 |segmented|~310 MB|~310 MB| ~310 MB |||
 
 - EasyMenuPicker
+
 |init| expanded/scroll | collapsed|
 |---|---|---|
 |< 1 MB|2~3 MB|~1MB|
